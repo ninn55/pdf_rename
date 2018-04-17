@@ -1,5 +1,9 @@
 # Rename you pdf file
 
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
+
 Change the name of the pdf file automatically mostly.
 
 When you download papers from SCI or ScienceDiract. Sometimes the name of the file is not actually the name of the essay. When you have massive amount of paper downloaded, it is convinient that the name of the pdf file match the name of the essay. I write this python script to do this automatically.
