@@ -1,9 +1,8 @@
-#https://stackoverflow.com/questions/3964681/find-all-files-in-a-directory-with-extension-txt-in-python
-#https://stackoverflow.com/questions/2759067/rename-multiple-files-in-a-directory-in-python
-#https://stackoverflow.com/questions/1810743/how-to-set-the-current-working-directory
-#https://stackoverflow.com/questions/34837707/extracting-text-from-a-pdf-file-using-python
-#https://pypi.org/project/wordsegment/
-#https://stackoverflow.com/questions/8546245/python-concat-string-with-list
+"""
+Created on Tue Apr 17 20:42:03 2018
+
+@author: niuwenxu
+"""
 
 import os
 from pdfrw import PdfReader
