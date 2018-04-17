@@ -1,7 +1,7 @@
 """
 Created on Tue Apr 17 20:42:03 2018
 
-@author: niuwenxu
+@author: ninn55
 """
 
 import os
