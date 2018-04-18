@@ -23,3 +23,22 @@ python file_try1.py
 ```
 
 Then input the directory whitch contains the pdf file directly.
+
+## References
+
+1. [Find all files in a directory with extension .txt in Python - Stack Overflow
+](https://stackoverflow.com/questions/3964681/find-all-files-in-a-directory-with-extension-txt-in-python)
+
+2. [Rename multiple files in a directory in Python [duplicate] - Stack Overflow
+](https://stackoverflow.com/questions/2759067/rename-multiple-files-in-a-directory-in-python)
+
+3. [How to set the current working directory? - Stack Overflow
+](https://stackoverflow.com/questions/1810743/how-to-set-the-current-working-directory)
+
+4. [Extracting text from a PDF file using Python - Stack Overflow
+](https://stackoverflow.com/questions/34837707/extracting-text-from-a-pdf-file-using-python)
+
+5. [wordsegment 1.2.0 · PyPI](https://pypi.org/project/wordsegment/)
+
+6. [Python concat string with list - Stack Overflow
+](https://stackoverflow.com/questions/8546245/python-concat-string-with-list)
